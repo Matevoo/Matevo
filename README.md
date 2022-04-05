@@ -8,6 +8,7 @@
  I love programming and sports :D
  - coding spigot,paper plugins; loving machine learning and fullstack development
  - riding mtb and doing freeski,freeride on skis
+ - at last I love dragonball
  
 ---
 
