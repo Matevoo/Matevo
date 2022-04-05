@@ -1,10 +1,14 @@
 <div align="center">
-  <img src="https://i.ibb.co/t2kWYBk/profile-pic.jpg" width="500" height="300"/>
+  <img src="https://i.ibb.co/t2kWYBk/profile-pic.jpg" width="520" height="300"/>
 </div>
 
 ---
+
 ## About Me:
- I love programming and sports (that is all you need xD) :D
+ I love programming and sports :D
+ - coding spigot,paper plugins and I love machine learning and fullstack development
+ - riding mtb and doing freeski,freeride on skis
+ 
 ---
 
 ### My stats
