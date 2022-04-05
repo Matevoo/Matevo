@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://i.ibb.co/t2kWYBk/profile-pic.jpg" width="600" height="300"/>
+</div>
 
 ---
 
