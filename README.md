@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://i.ibb.co/t2kWYBk/profile-pic.jpg" width="600" height="300"/>
+  <img src="https://i.ibb.co/t2kWYBk/profile-pic.jpg" width="500" height="300"/>
 </div>
 
+---
+## About Me:
+ I love programming and sports (that is all you need xD) :D
 ---
 
 ### My stats
