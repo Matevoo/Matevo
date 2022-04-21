@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co/t2kWYBk/profile-pic.jpg" width="520" height="300"/>
-</div>
-
----
-
 ## About Me:
  I love programming and sports :D
  - coding > spigot,paper plugins; loving machine learning and fullstack development plus graphics programming
