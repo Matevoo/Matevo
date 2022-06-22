@@ -1,6 +1,6 @@
 ## About Me 👋:
  I love programming and sports :D
- - coding > spigot,paper plugins; loving machine learning and fullstack development plus graphics programming
+ - coding > spigot,paper plugins; I love machine learning, fullstack development and graphics programming
  - riding mtb and doing freeski,freeride on skis,calisthenics
  - at last I love dragonball
  
