@@ -6,6 +6,6 @@
  
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewooo&hide=c++,css,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mathewooo&hide=C++,css,html&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
