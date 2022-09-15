@@ -1,8 +1,8 @@
 ## About Me 👋:
  I love programming and sports :D
- - coding > spigot,paper plugins; I love machine learning, fullstack development and graphics programming
- - riding mtb and doing freeski,freeride on skis,calisthenics
- - at last I love dragonball
+ - coding -> I love fullstack development and as hobby I also do love graphics and systems programming aswell embedded systems, sometimes there comes machine learning to play
+ - doing mtb,freeski and calisthenics
+ - at last I truly love Dragonball
  
 ---
 
