@@ -1,5 +1,5 @@
 ## About Me 👋:
- - coding -> I love fullstack development and as hobby I also do love graphics and systems programming aswell embedded systems, sometimes there comes machine learning to play
+ - coding -> I love fullstack development and as hobby I also do love graphics and systems programming aswell as embedded systems, sometimes there comes machine learning to play
  - doing mtb,freeski and calisthenics
  - at last I truly love Dragonball
  
