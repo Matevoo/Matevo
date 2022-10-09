@@ -1,4 +1,4 @@
-## Hi I'm Matt:
+## Hi I'm Matt
  - I love fullstack development and as hobby I also enjoy doing graphics and systems programming aswell as embedded systems, sometimes there comes machine learning into the play
 - I truly love Dragonball and sports
  
