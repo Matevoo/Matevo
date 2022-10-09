@@ -1,7 +1,6 @@
-## About Me 👋:
- - coding -> I love fullstack development and as hobby I also enjoy doing graphics and systems programming aswell as embedded systems, sometimes there comes machine learning into the play
- - doing mtb,freeski and calisthenics
- - at last I truly love Dragonball
+## Hi I'm Matt:
+ - I love fullstack development and as hobby I also enjoy doing graphics and systems programming aswell as embedded systems, sometimes there comes machine learning into the play
+- I truly love Dragonball and sports
  
 ---
 
